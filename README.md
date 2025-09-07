@@ -58,5 +58,7 @@ This project is released under the **Apache 2.0**
 
 ---
 
+***To run the backend you will have to download all the git files and their required dependencies.***
+
 *THIS IS A BETA VERSION*
   
