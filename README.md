@@ -46,7 +46,7 @@ Finding where to eat in Ahmedabad can be confusing:
 
 ---
 
-## Future Plans  
+## Scope  
 - Add a web-based chat UI (like ChatGPT-style interface).  
 - Deploy online so anyone can access BhojanAI easily.  
 - Expand to other cities with more datasets.  
