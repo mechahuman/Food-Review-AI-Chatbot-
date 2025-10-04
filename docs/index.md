@@ -58,4 +58,4 @@ This project is released under the **Apache 2.0**
 
 ---
 
-***Please refer the problem statement pdf for the detailed explanation about the project***
+***Please refer the problem statement pdf in the repo for the detailed explanation about the project***
